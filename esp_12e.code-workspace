@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../esp/esp_312"
+		}
+	],
+	"settings": {
+		"commentTranslate.hover.enabled": true
+	}
+}
